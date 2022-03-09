@@ -19,7 +19,9 @@
         <p class="as-color-secondary-2 as-text-14">IP Website</p>
         <p class="as-text-14-semibold">109.106.252.91 <a href="#"><i class="as-icon-copy"></i></a></p>
       </div>
-      <AsButtonOutline class="as-mt-48" fluid primary sm>Lihat detail selengkapnya</AsButtonOutline>
+      <AsButtonOutline class="as-mt-48" fluid primary sm withIcon>
+        <span>Lihat detail selengkapnya</span><i class="as-icon-arrow-right-double as-text-12"></i>
+      </AsButtonOutline>
     </AsCardSection>
   </AsCard>
 </template>
